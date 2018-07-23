@@ -1,0 +1,28 @@
+{
+    "date": "2018-06-27 10:23:12.088000",
+    "imgdir": "",
+    "labels": [
+        {
+            "annotations": [
+                {
+                    "class": "Ignore",
+                    "height": 294.0,
+                    "width": 230.0,
+                    "x": 529.0,
+                    "y": 270.0
+                },
+                {
+                    "class": "pedestrain",
+                    "height": 99.0,
+                    "width": 135.0,
+                    "x": 231.0,
+                    "y": 184.0
+                }
+            ],
+            "class": "image",
+            "filename": ".\\hisense1_2.jpg"
+        }
+    ],
+    "version": "0.6.3",
+    "versiondesc": "zx dev @ 20171019"
+}
